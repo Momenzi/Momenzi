@@ -5,5 +5,5 @@
 - ⚡ Pikaboot - Multifunctional Discord Music Bot
 ##### [Discord](https://discord.gg/BCeds9gZDQ) || [Top.gg](https://top.gg/bot/784320458744791050) || [Website](https://pikaboot.xyz)
 
-- 💜 Puffy - Currently In development
-##### [Website](https://pikaboot.xyz/deadboot)
+- 💜 RajaCord - Currently In development
+##### [Website](https://rajacord.xyz)
