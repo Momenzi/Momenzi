@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=momenzi&label=Profile%20views&color=0e75b6&style=flat" alt="momenzi" /> </p>
+:: <p align="left"> <img src="https://komarev.com/ghpvc/?username=momenzi&label=Profile%20views&color=0e75b6&style=flat" alt="momenzi" /> </p>
 - 👋 Hi, I’m @Momenzi
 - Contact: Discord Momenzi#7817
 - Discord Server: discord.gg/pikaboot
